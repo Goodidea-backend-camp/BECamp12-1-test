@@ -1,8 +1,8 @@
 # BECamp12-1-test
 
-這裡是作業一的測試 repo，repo 設定和正式 repo 一致，你可以在這邊進行任何測試。
+這裡是作業一的測試 repo，repo 設定和[正式 repo](https://github.com/Goodidea-backend-camp/BECamp12-1-formal) 一致，你可以在這邊進行任何測試。
 
-但題目請以正式 repo 為準，這邊的題目不會更新
+但題目請以[正式 repo](https://github.com/Goodidea-backend-camp/BECamp12-1-formal) 為準，這邊的題目不會更新
 
 ## 作業說明：
 - 這是一份程式語言基本的語法訓練，共有五題。
