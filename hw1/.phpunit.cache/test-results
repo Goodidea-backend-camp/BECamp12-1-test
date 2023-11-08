@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FinderTest::testFind#0":7,"FinderTest::testFind#1":7,"HomeworkTest::testSolve#0":8,"HomeworkTest::testSolve#2":8,"HomeworkTest::testSolve#1":7},"times":{"FinderTest::testFind#0":0.002,"FinderTest::testFind#1":0,"HomeworkTest::testSolve#0":0.001,"HomeworkTest::testSolve#1":0,"HomeworkTest::testSolve#2":28.584}}
